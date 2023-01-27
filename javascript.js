@@ -30,7 +30,7 @@
 // bular variables edi endi datatypega kiramiz
 // JAVASCRIPTDA DATATYPE LAR 8TA
 // 1- BU NUMBER bu terminalda sariq bo'lib chiqadi
-// 2- BIGINT endi agar maksimal raqamga borsak unda console.log(65416166546n+1n) qilsak keyin unga qo'shsak bo'ladi
+// 2- BIGINT endi agar maksimal raqamga borsak unda console.log(9007199254740992n+1n) qilsak keyin unga qo'shsak bo'ladi
 // 3- BU STRIM YA'NI TEXT DEGANI BULAR console.log('') console.log("") console.log(``BU BELGINI OTI BACKTICK) berib ichidan biron narsani yozsak u strimga aynalib ketadi 
 // Agar biron narsani strimdi ichida ajratib ko'rsatmoqchi bo'lsak unda console.log("Welcome to \"Webbrain\"")bersak  unda web brein so'zini kovichkada chiqarib beradi
 // lekin tepadagini o'rniga console.log("Welocome to'webbrain'" ) yoki console.log('Welocome to"webbrain"') desak ham bo'laveradi 
@@ -70,6 +70,9 @@
 //7. SYMBOLS PBU BIZGA UNIQUE ID yasab beradi
 // va bunda ikkita== uoki === berasizmi bu har doim false beradi chunki ikkita symbol xattoki let bilan o'shani copy qilsak ham u bir biriga teng bo'lmaydi
 // console.log (a==b)yoki (a===)
+//let id1 =Symbol(1234)
+//let id2 =Symbol(1234)
+//console.log(id1===id2)
 
 //NON-PRIMITIVE 
 //8.OBJECTS-array,obj,function
