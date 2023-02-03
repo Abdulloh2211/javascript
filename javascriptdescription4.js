@@ -230,9 +230,7 @@
 // 0 do while degan javob chiqadi chunki birinchisida tepadan tekshirib keladi keyin false chiqqani ubhun qavsidi ichidagi while di chiqarib bermaydi 
 // keyin ikkinchisiga kelsak unda birinchi koddi o'qidi keyin tekshiradi
 
-
-
-
-
-
-
+let data = "1"
+switch (data){
+    case 1: console.log('teng')
+}
