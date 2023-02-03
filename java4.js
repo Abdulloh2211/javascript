@@ -27,7 +27,7 @@ if ( a > 0) {
 // .4
 let b = 2, c = 3
 
-if ( a+b < 4 ) {
+if ( b+c < 4 ) {
     console.log ('Below')
 } else {
     console.log('Over')
