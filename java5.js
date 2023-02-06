@@ -73,4 +73,4 @@ while(s<3){
     console.log(s);
     s++
 }
-// bu endi fordagi qiymatga alternative bo'ladi
+// bu endi fordagi qiymatga alternative bo'ladiko
