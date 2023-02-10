@@ -29,7 +29,7 @@
 // console.log(webbrain.location);
 // bunda location chiqadi va batta location key bo'lib kelyapti
 // console.log(webbrain.[location]);
-// console.log(webbrain."chilonzor");
+// console.log(webbrain.chilonzor);
 // bu ikkalasi bitta narsa lekin hozir bu bizga undefined chiqaradi va batta location variable bo'lib kelyapti
 // console.log(webbrain.["location"]);
 // bu ham bizga location deb chiqaradi va batta location  string sifatidagi key bo'lib kelyapti
@@ -85,10 +85,10 @@
 // name ={ ... name , ... users}
 // yoki
 // name.name = users.year
-// desak bo'ladi lekin ikkinchisi bu optimal yechim deb hisoblanmaydi 
+// desak bo'ladi lekin BIRINCHISI bu optimal yechim deb hisoblanmaydi 
 // ... 3 ta nuxta bu bizga skobkalardi tashab ikkalasini bir qilib beradi
 // yoki 
-// Objectk.assign(name,users)
+// Objectt.assign(name,users)
 // desak ham bo'ladi
 
 // agar biz 
