@@ -50,7 +50,7 @@
 //  for(l of str){
 //      let lt=l.toLowerCase();
 //      if (!isNaN(l)) {res.number++}
-//      else if (lt !== l.toUpperCase()){res.string++} 
+//      else if (lt !== l.toUpperCase() && l !== " "){res.string++} 
 //      else {res.char++}
  
 //     }
