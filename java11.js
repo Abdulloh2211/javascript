@@ -78,3 +78,11 @@ count_occur(str7)
 
 // HW8
 let str8 = 'webbraaiiin'
+
+
+
+
+// va keyin biz create qilishimiz uchun biz students= [...students,{}] deb turib objectdi ichida 
+// bironta yangi ma'lumotdi qo'shsak bo'ldi 
+
+
